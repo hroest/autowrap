@@ -1,0 +1,8 @@
+
+codeship_test:
+  build:
+    image: codeship_test
+    dockerfile: Dockerfile
+  environment:
+EXAMPLE_ENV_VAR: example-var
+
