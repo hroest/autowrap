@@ -1,4 +1,4 @@
 - name: autowrap_tests
   tag: master
   service: codeship_test
-command: echo "Done here!"
+  command: echo "Done here!"

@@ -1,4 +1,3 @@
-
 codeship_test:
   build:
     image: codeship_test
